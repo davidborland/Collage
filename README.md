@@ -1,3 +1,3 @@
 # Collage
 
-Visualization tool for the Social Computing Room. 
+Image viewer for the Social Computing Room
